@@ -13,10 +13,8 @@ for(i=1;i<=n;i++){
     sum=sum+(1.0/i);
 }
 
-/*if(n==0){
+if(n==0){
     printf("\nSum= 1/0");
 }else{
-printf("\nSum= %.1f",sum);
-}*/
 printf("\nSum= %.1f",sum);
 }
